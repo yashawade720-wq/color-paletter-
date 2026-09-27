@@ -1,0 +1,57 @@
+body{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+#heading{
+    margin: 100px;
+    padding: 100px;
+   
+
+
+}
+
+
+
+
+
+.color {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.purple {
+    background: #B87BEF;
+    border: 1px solid #ddd;
+}
+
+.green {
+    background: #24C607;
+}
+
+.sea {
+    background: #59A18B;
+}
+
+.gold {
+    background: #A68F55;
+}
+
+.dark {
+    background: #330940;
+}
+#body2{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 50px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
